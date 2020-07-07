@@ -1,4 +1,4 @@
-FROM Ubuntu
+FROM ubuntu
 
 RUN apt-get update -y
 RUN apt-get install python python3-pip
